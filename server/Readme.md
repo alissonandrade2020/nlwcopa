@@ -13,16 +13,16 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-[X] - npm init -y
+- [X] npm init -y
 
 -> npm i typescript -D
 
 * npx tsc --init
 
-[X] - npm i fastify
-[X] - npm i tsx -D 
-[X] - npm i prisma -D
-[X] - npm i @prisma/client
+- [X] npm i fastify
+- [X] npm i tsx -D 
+- [X] npm i prisma -D
+- [X] npm i @prisma/client
 
 * npx prisma init --datasource-provider SQLite
 
@@ -31,3 +31,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 *  create table pools
 
 - npx prisma studio
+
+## DIAGRAMA
+
+- [X] npm i prisma-erd-generator @mermaid-js/mermaid-cli -D
+
+* npx prisma generate
+
+------------------------ || -------------------------
+
+- [X] npm i @fastify/cors
