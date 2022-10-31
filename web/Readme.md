@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BolãoCopa" title="#copa" src="Web.png" width="400px" />
+    <img alt="BolãoCopa" title="#copa" src="Web.png" width="700px" />
 </h1>
 
 <h4 align="center">
