@@ -16,6 +16,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Fastify](https://www.fastify.io/docs/latest/Guides/Getting-Started/)
 - [Prisma](https://www.prisma.io/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Zod](https://www.npmjs.com/package/zod)
+- [ShorUniqueID](https://www.npmjs.com/package/short-unique-id)
 - [Diagrama ERD](https://www.npmjs.com/package/prisma-erd-generator/)
 
 ```bash 
@@ -46,6 +48,7 @@ $ npm run dev
 - [React](https://pt-br.reactjs.org/)
 - [NextJS](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Tailwindcss](https://tailwindcss.com/)
 
 ```bash 
 

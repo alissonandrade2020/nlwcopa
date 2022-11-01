@@ -8,6 +8,16 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- [Node.js](https://nodejs.org/en/)
+- [Fastify](https://www.fastify.io/docs/latest/Guides/Getting-Started/)
+- [Prisma](https://www.prisma.io/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Zod](https://www.npmjs.com/package/zod)
+- [ShorUniqueID](https://www.npmjs.com/package/short-unique-id)
+- [Diagrama ERD](https://www.npmjs.com/package/prisma-erd-generator/)
+
+# Comandos
+
 - [X] npm init -y
 
 -> npm i typescript -D
@@ -36,3 +46,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ------------------------ || -------------------------
 
 - [X] npm i @fastify/cors
+
+## Aula 02
+
+- create db structure
+- npx prisma db seed
+
+- [X] npm i zod
+- [X] npm i short-unique-id

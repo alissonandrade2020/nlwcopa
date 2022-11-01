@@ -8,6 +8,17 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-[X] npx create-next-app@latest --use-npm
+- [React](https://pt-br.reactjs.org/)
+- [NextJS](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwindcss](https://tailwindcss.com/)
+
+# Comandos
+
+- [X] npx create-next-app@latest --use-npm
 
 * npm run dev
+
+- [X] npm install -D tailwindcss postcss autoprefixer
+
+* npx tailwindcss init -p
