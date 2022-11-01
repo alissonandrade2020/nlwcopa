@@ -72,6 +72,25 @@ Mobile
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
+```bash 
+
+# Clone este repositório
+
+$ git clone <https://github.com/alissonandrade2020/nlwcopa/mobile>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd nlwcopa
+
+# Vá para a pasta mobile
+$ cd mobile
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npx expo start
+
+# O servidor inciará na porta:3000 - acesse <exp://10.50.3.50:19000> 
 
 ## 💻 Projeto
 
