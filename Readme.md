@@ -16,6 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Fastify](https://www.fastify.io/docs/latest/Guides/Getting-Started/)
 - [Prisma](https://www.prisma.io/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Diagrama ERD](https://www.npmjs.com/package/prisma-erd-generator/)
 
 ```bash 
 
@@ -43,6 +44,7 @@ $ npm run dev
 🔭 Frontend
 
 - [React](https://pt-br.reactjs.org/)
+- [NextJS](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ```bash 
