@@ -62,5 +62,5 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-# Autor| [<img src="https://avatars.githubusercontent.com/u/39311340?v=4" width=115><br><sub>Alisson de Andrade Araújo</sub>](https://github.com/alissonandrade20220)  || :---: |
+# Autor| [<img src="https://avatars.githubusercontent.com/u/39311340?v=4" width=115><br><sub>Alisson de Andrade Araújo</sub>](https://github.com/alissonandrade20220)  | :---: |
 
