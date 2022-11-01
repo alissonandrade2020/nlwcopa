@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Backend
 
-- ![FASTIFY](https://www.fastify.io/docs/latest/Guides/Getting-Started)
+- [FASTIFY](https://www.fastify.io/docs/latest/Guides/Getting-Started)
 
 
 Frontend
