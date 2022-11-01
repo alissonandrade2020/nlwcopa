@@ -92,6 +92,8 @@ $ npx expo start
 
 # O servidor inciará na porta:3000 - acesse <exp://10.50.3.50:19000> 
 
+```
+
 ## 💻 Projeto
 
 O NlwCopa é um projeto que visa conectar pessoas que desejam fazer bolões de jogos com amigos.
