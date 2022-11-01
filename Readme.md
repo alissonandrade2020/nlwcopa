@@ -13,7 +13,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 🎲 Rodando o Back End (servidor)
 
 - [Node.js](https://nodejs.org/en/)
-- [FASTIFY](https://www.fastify.io/docs/latest/Guides/Getting-Started/)
+- [Fastify](https://www.fastify.io/docs/latest/Guides/Getting-Started/)
+- [Prisma](https://www.prisma.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ```bash 
