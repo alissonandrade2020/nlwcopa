@@ -10,10 +10,30 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Backend
+🎲 Rodando o Back End (servidor)
 
 - [FASTIFY](https://www.fastify.io/docs/latest/Guides/Getting-Started)
 
+
+# Clone este repositório
+$ git clone <https://github.com/alissonandrade2020/nlwcopa/server>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd nlwcopa
+
+# Vá para a pasta server
+$ cd server
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+
+# O servidor inciará na porta:3333 - acesse <http://localhost:3333> 
+
+
+-------------------------------------------------------------------
 
 Frontend
 
@@ -41,3 +61,5 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+# Autor | [<img src="https://avatars.githubusercontent.com/u/39311340?v=4" width=115><br><sub>Alisson de Andrade Araújo</sub>](https://github.com/camilafernanda)  || :---: | :---: | :---: |
