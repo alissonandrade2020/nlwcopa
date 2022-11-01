@@ -12,10 +12,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 🎲 Rodando o Back End (servidor)
 
-- [FASTIFY](https://www.fastify.io/docs/latest/Guides/Getting-Started)
+- [Node.js](https://nodejs.org/en/)
+- [FASTIFY](https://www.fastify.io/docs/latest/Guides/Getting-Started/)
+- [TypeScript](https://www.typescriptlang.org/)
 
+```bash 
 
 # Clone este repositório
+
 $ git clone <https://github.com/alissonandrade2020/nlwcopa/server>
 
 # Acesse a pasta do projeto no terminal/cmd
@@ -32,17 +36,19 @@ $ npm run dev
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333> 
 
-
+```
 -------------------------------------------------------------------
 
-Frontend
+🔭 Frontend
 
-- [HTML]
-- [CSS]
-- [JS]
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 Mobile
 
+- [Expo](https://expo.io/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 
 ## 💻 Projeto
@@ -62,5 +68,4 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-# Autor| [<img src="https://avatars.githubusercontent.com/u/39311340?v=4" width=115><br><sub>Alisson de Andrade Araújo</sub>](https://github.com/alissonandrade20220)  | :---: |
 
