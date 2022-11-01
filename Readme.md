@@ -69,7 +69,7 @@ $ npm run dev
 
 ```
 
-Mobile
+📱 Mobile
 
 - [Expo](https://expo.io/)
 - [React Native](https://reactnative.dev/)
