@@ -10,6 +10,14 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-[X] npx create-next-app@latest --use-npm
+- [X] npx create-expo-app nlwcopamobile
 
-* npm run dev
+* npx expo start
+
+- [X] yarn add native-base
+
+- [X] npx expo install react-native-svg@12.1.1
+
+- [X] expo install react-native-safe-area-context@3.3.2
+
+= [X] npx expo install expo-font expo-google-fonts/roboto
