@@ -2,11 +2,6 @@
     <img alt="BolãoCopa" title="#copa" src="Web.png" width="700px" />
 </h1>
 
-<h4 align="center">
-  🚀 Bolão Copa
-</h4>
-
-
 <br>
 
 ## :rocket: Tecnologias
