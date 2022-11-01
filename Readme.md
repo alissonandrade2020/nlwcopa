@@ -44,6 +44,28 @@ $ npm run dev
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
+```bash 
+
+# Clone este repositório
+
+$ git clone <https://github.com/alissonandrade2020/nlwcopa/web>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd nlwcopa
+
+# Vá para a pasta web
+$ cd web
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+
+# O servidor inciará na porta:3000 - acesse <http://localhost:3000> 
+
+```
+
 Mobile
 
 - [Expo](https://expo.io/)
