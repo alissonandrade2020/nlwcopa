@@ -4,6 +4,5 @@
   "@typescript-eslint/indent": [
     "error",
     4
-], 
-
+]
 }
