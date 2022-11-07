@@ -17,6 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Diagrama ERD](https://www.npmjs.com/package/prisma-erd-generator/)
 - [Mermaid-js](https://mermaid-js.github.io/mermaid/#/)
 - [Country Codes](https://countrycode.org/)
+- [SQlite](https://github.com/mapbox/node-sqlite3)
 
 🎲 Rodando o Back End (servidor)
 
@@ -24,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 # Clone este repositório
 
-$ git clone <https://github.com/alissonandrade2020/nlwcopa/server>
+$ git clone https://github.com/alissonandrade2020/nlwcopa/server
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd nlwcopa
@@ -49,6 +50,8 @@ $ npm run dev
 - [NextJS](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwindcss](https://tailwindcss.com/)
+- [Axios](https://github.com/axios/axios)
+
 
 ```bash 
 
@@ -82,7 +85,10 @@ $ npm run dev
 - [Expo Web Browser](https://docs.expo.dev/versions/v46.0.0/sdk/webbrowser/)
 - [API GOOGLE](https://console.cloud.google.com)
 - [PhosphorIcons](https://phosphoricons.com/)
-
+- [Axios](https://www.npmjs.com/package/axios)
+- [Country-List](https://www.npmjs.com/package/country-list)
+- [DayJS](https://www.npmjs.com/package/dayjs)
+- [dotENV](https://www.npmjs.com/package/dotenv)
 
 ```bash 
 
