@@ -5,9 +5,9 @@ const prisma = new PrismaClient()
 async function main() {
   const user = await prisma.user.create({
     data: {
-      name: 'Alisson Andrade',
-      email: 'alisson_teste@gmail.com',
-      avatarUrl: 'https://github.com/alissonandrade2020.png',
+      name: 'John Doe',
+      email: 'john.doe@gmail.com',
+      avatarUrl: 'https://github.com/diego3g.png',
     }
   });
 
@@ -41,7 +41,7 @@ async function main() {
 
       guesses: {
         create: {
-          firstTeamPoints: 4,
+          firstTeamPoints: 2,
           secondTeamPoints: 1,
 
           participant: {
