@@ -12,6 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [NextJS](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwindcss](https://tailwindcss.com/)
+- [Axios](https://github.com/axios/axios)
 
 # Comandos
 

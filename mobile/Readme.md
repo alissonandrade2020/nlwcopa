@@ -18,6 +18,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo Web Browser](https://docs.expo.dev/versions/v46.0.0/sdk/webbrowser/)
 - [API GOOGLE](https://console.cloud.google.com)
 - [PhosphorIcons](https://phosphoricons.com/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [Country-List](https://www.npmjs.com/package/country-list)
+- [DayJS](https://www.npmjs.com/package/dayjs)
+- [dotENV](https://www.npmjs.com/package/dotenv)
 
 ------------------------ || -------------------------
 
