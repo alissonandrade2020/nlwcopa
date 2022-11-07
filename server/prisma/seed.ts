@@ -7,7 +7,7 @@ async function main() {
     data: {
       name: 'Alisson Andrade',
       email: 'alissonaa@gmail.com',
-      avatarUrl: 'https://github.com/alissonandrade2022.png',
+      avatarUrl: 'https://github.com/alissonandrade2020.png',
     }
   });
 
