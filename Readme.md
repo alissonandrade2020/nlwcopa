@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Diagrama ERD](https://www.npmjs.com/package/prisma-erd-generator/)
 - [Mermaid-js](https://mermaid-js.github.io/mermaid/#/)
 - [Country Codes](https://countrycode.org/)
-- [SQlite](https://github.com/mapbox/node-sqlite3)
+- [Sqlite](https://github.com/mapbox/node-sqlite3)
 
 🎲 Rodando o Back End (servidor)
 
