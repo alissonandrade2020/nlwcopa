@@ -1,6 +1,5 @@
 {
   "extends": "next/core-web-vitals",
-  "indent": "off",
   "template-curly-spacing": "off",
   "rules": {
     "indent": ["error", "tab"]
