@@ -2,7 +2,7 @@
     <img alt="BolãoCopa" title="#copa" src="https://github.com/alissonandrade2020/nlwcopa/raw/master/server/Web.png" width="1200px" />
 </h1>
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Finish](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ## :rocket: Tecnologias
 
