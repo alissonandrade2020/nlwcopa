@@ -15,6 +15,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 # Comandos
 
+-> Criando Projeto
+
 - [X] npx create-next-app@latest --use-npm
 
 * npm run dev

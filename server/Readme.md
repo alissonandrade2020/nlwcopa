@@ -15,6 +15,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Zod](https://www.npmjs.com/package/zod)
 - [ShorUniqueID](https://www.npmjs.com/package/short-unique-id)
 - [Diagrama ERD](https://www.npmjs.com/package/prisma-erd-generator/)
+- [Mermaid-js](https://mermaid-js.github.io/mermaid/#/)
+- [Country Codes](https://countrycode.org/)
 
 # Comandos
 
@@ -46,11 +48,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ------------------------ || -------------------------
 
 - [X] npm i @fastify/cors
+- [X] npm i @types/fastify-jwt
 
 ## Aula 02
+
+* API -> countrycode.org (https://countrycode.org/)
 
 - create db structure
 - npx prisma db seed
 
 - [X] npm i zod
 - [X] npm i short-unique-id
+

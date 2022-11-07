@@ -4,13 +4,9 @@
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-
-
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-🎲 Rodando o Back End (servidor)
 
 - [Node.js](https://nodejs.org/en/)
 - [Fastify](https://www.fastify.io/docs/latest/Guides/Getting-Started/)
@@ -19,6 +15,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Zod](https://www.npmjs.com/package/zod)
 - [ShorUniqueID](https://www.npmjs.com/package/short-unique-id)
 - [Diagrama ERD](https://www.npmjs.com/package/prisma-erd-generator/)
+- [Mermaid-js](https://mermaid-js.github.io/mermaid/#/)
+- [Country Codes](https://countrycode.org/)
+
+🎲 Rodando o Back End (servidor)
 
 ```bash 
 
@@ -77,6 +77,12 @@ $ npm run dev
 - [Expo](https://expo.io/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [React Native Svg-Transformer](https://github.com/kristerkari/react-native-svg-transformer)
+- [Expo Auth Session](https://docs.expo.dev/versions/latest/sdk/auth-session/)
+- [Expo Web Browser](https://docs.expo.dev/versions/v46.0.0/sdk/webbrowser/)
+- [API GOOGLE](https://console.cloud.google.com)
+- [PhosphorIcons](https://phosphoricons.com/)
+
 
 ```bash 
 
