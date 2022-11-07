@@ -52,4 +52,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [X] npm install --save phosphor-react-native
 
+* npx expo start --clear
 

@@ -27,7 +27,7 @@ export default function Home(props: HomeProps) {
 
       await navigator.clipboard.writeText(code);
 
-      alert('Bolão criado com sucesso, o código fiu copiado para a área de transferência!');
+      alert('Bolão criado com sucesso, o código foi copiado para a área de transferência!');
 
       setPoolTitle('')
     } catch (err) {
