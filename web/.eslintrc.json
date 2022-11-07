@@ -1,4 +1,10 @@
 {
-  "extends": "next/core-web-vitals",
-  "indent": "off"
+  "extends": [
+    "next/core-web-vitals",
+    "eslint:recommended",
+    "indent:off"
+  ],
+  "rules": {
+    "indent": ["error", 4]
+  }
 }
