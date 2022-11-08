@@ -16,3 +16,5 @@ web-build/
 .DS_Store
 
 .env
+
+eas build -p android

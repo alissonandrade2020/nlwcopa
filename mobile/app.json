@@ -27,10 +27,14 @@
         "backgroundColor": "#FFFFFF"
       },
       "package": "alisson.copadomundo"
-
     },
     "web": {
       "favicon": "./assets/favicon00.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "23503888-27dc-42c4-9c15-f5462c75ef18"
+      }
     }
   }
 }
