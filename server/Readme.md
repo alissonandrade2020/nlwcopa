@@ -60,3 +60,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [X] npm i zod
 - [X] npm i short-unique-id
 
+- [X] npm install node-fetch

@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BolãoCopa" src="capa.svg" width="200px" title="555567285446-1tpp690gcn4ni3149iuhbdeqba20lp55.apps.googleusercontent.com" />
+    <img alt="BolãoCopa" src="capa.svg" width="200px" title="818557631343-7550ck1t51dr2tdavh7m9tq8i2icgakr.apps.googleusercontent.com" />
       <img alt="BolãoCopa" title="#copa" src="tela.svg" width="200px" />
         <img alt="BolãoCopa" title="#copa" src="tela2.svg" width="200px" />
 </h1>

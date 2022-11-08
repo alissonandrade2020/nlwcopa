@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "nlwcopamobile",
-    "slug": "nlwcopamobile",
-    "scheme": "nlwcopamobile",
+    "name": "copadomundo",
+    "slug": "copadomundo",
+    "scheme": "copadomundo",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon1.png",
+    "icon": "./assets/icon00.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash1.png",
+      "image": "./assets/splash00.png",
       "resizeMode": "cover",
       "backgroundColor": "#000"
     },
@@ -23,12 +23,14 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon1.png",
+        "foregroundImage": "./assets/adaptive-icon00.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "alisson.copadomundo"
+
     },
     "web": {
-      "favicon": "./assets/favicon1.png"
+      "favicon": "./assets/favicon00.png"
     }
   }
 }
